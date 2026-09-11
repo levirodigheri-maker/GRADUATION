@@ -38,8 +38,11 @@ programa
             escreva("========================================\n")
             escreva("        VAMO, INTER! 🔴⚪\n")
             escreva("========================================\n")
+escreva("\n--- CURIOSIDADE DO INTER ---\n")
+escreva("O Internacional é conhecido como o Colorado! 🔴⚪\n")
+escreva("Sua torcida e sua história fazem parte da tradição do futebol gaúcho.\n")
         }
-     senao se (time == "GRÊMIO" ou time == "grêmio")
+senao se (time == "GRÊMIO" ou time == "grêmio")
 {
     escreva("\n========================================\n")
     escreva("       VOCÊ ESCOLHEU O GRÊMIO! 🔵⚫⚪\n")
@@ -66,11 +69,14 @@ programa
     escreva("========================================\n")
     escreva("        VAMO, GRÊMIO! 🔵⚫⚪\n")
     escreva("========================================\n")
-} }
+
+
+}
+    }
         }
         senao
         {
             escreva("\nOpção inválida!\n")
             escreva("Digite INTER ou GRÊMIO.\n")
         }
-  
+
