@@ -39,11 +39,38 @@ programa
             escreva("        VAMO, INTER! 🔴⚪\n")
             escreva("========================================\n")
         }
-    }
+     senao se (time == "GRÊMIO" ou time == "grêmio")
+{
+    escreva("\n========================================\n")
+    escreva("       VOCÊ ESCOLHEU O GRÊMIO! 🔵⚫⚪\n")
+    escreva("========================================\n\n")
+
+    escreva("O Grêmio também é um grande clube brasileiro!\n\n")
+
+    escreva("TÍTULOS INTERNACIONAIS:\n")
+    escreva("- 3x Copa Libertadores da América\n")
+    escreva("- 1x Mundial de Clubes\n")
+    escreva("- 2x Recopa Sul-Americana\n\n")
+
+    escreva("TÍTULOS NACIONAIS:\n")
+    escreva("- 2x Campeonato Brasileiro\n")
+    escreva("- 5x Copa do Brasil\n")
+    escreva("- 1x Supercopa do Brasil\n\n")
+
+    escreva("TÍTULOS ESTADUAIS:\n")
+    escreva("- Mais de 40 Campeonatos Gaúchos\n\n")
+
+    escreva("O Grêmio também possui uma história muito vitoriosa,\n")
+    escreva("com grandes jogadores e conquistas importantes.\n\n")
+
+    escreva("========================================\n")
+    escreva("        VAMO, GRÊMIO! 🔵⚫⚪\n")
+    escreva("========================================\n")
+} }
         }
         senao
         {
             escreva("\nOpção inválida!\n")
             escreva("Digite INTER ou GRÊMIO.\n")
         }
-
+  
