@@ -69,8 +69,9 @@ senao se (time == "GRÊMIO" ou time == "grêmio")
     escreva("========================================\n")
     escreva("        VAMO, GRÊMIO! 🔵⚫⚪\n")
     escreva("========================================\n")
-
-
+escreva("\n--- CURIOSIDADE DO GRÊMIO ---\n")
+escreva("O Grêmio é conhecido como o Tricolor Gaúcho! 🔵⚫⚪\n")
+escreva("O clube também possui uma história marcada por grandes conquistas.\n")
 }
     }
         }
@@ -79,4 +80,3 @@ senao se (time == "GRÊMIO" ou time == "grêmio")
             escreva("\nOpção inválida!\n")
             escreva("Digite INTER ou GRÊMIO.\n")
         }
-
